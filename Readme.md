@@ -9,16 +9,16 @@
  [@WhitehatJr](https://www.whitehatjr.com/) UE Intern.
  
  <a href="https://www.linkedin.com/in/swayansuabhisek/">
-  <img align="left" width="30px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png"  />
+  <img align="left" width="30px" src="https://img.icons8.com/fluency/50/000000/linkedin.png"/>
 </a>
-<a href="https://www.instagram.com/imsmsahu/">
+<a href="https://www.instagram.com/_no_lag_/">
   <img align="left" width="30px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />
 </a>
-<a href="https://twitter.com/imsmsahu">
-  <img align="left" width="30px" src="https://img.icons8.com/color/48/000000/twitter--v1.png" />
+<a href="https://twitter.com/swayansuabhisek">
+  <img align="left" width="30px" src="https://img.icons8.com/fluency/48/000000/twitter.png"/>
 </a>
-<a href="mailto:smsahu9@gmail.com">
-  <img align="left" width="30px" src="https://img.icons8.com/color/48/000000/gmail-new.png" />
+<a href="mailto:swayansuabhisek123@gmail.com">
+  <img align="left" width="30px" src="https://img.icons8.com/color/48/000000/gmail-new.png"/>
 </a>
 
 
