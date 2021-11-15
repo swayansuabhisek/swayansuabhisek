@@ -1,4 +1,4 @@
-# Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Abhisek. 
+# Hey Geeks!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="32px"> 
  
  ### About me
  :brain: I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering.<br />
