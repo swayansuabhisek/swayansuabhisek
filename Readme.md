@@ -1,7 +1,7 @@
 # Hey Geeks!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="32px"> 
  
  ### About me
- :brain: Hi! My name is Swayansu Abhisek. Thank You for taking the time to view my GitHub Profile. I am interested in Software Development. In terms of languages I am trying to become proficient in Java and Python.😄
+ :brain: Hi! My name is **Swayansu Abhisek**. Thank You for taking the time to view my GitHub Profile. I am interested in Software Development. In terms of languages I am trying to become proficient in Java and Python.😄
 
 🌱 I’m currently pursuing my Bachelors in Computer Science & Engineering.
 
