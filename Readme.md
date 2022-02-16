@@ -54,9 +54,9 @@
 <code><img height="40" width="40" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
 <code><img height="40" width="40" src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"></code>
 <code><img height="40" width="40" src="https://img.icons8.com/officel/80/000000/java-eclipse.png"></code>
+<code><img height="40" width="40" src="https://img.icons8.com/color/48/000000/intellij-idea.png"></code>
 <code><img height="40" width="40" src="https://img.icons8.com/plasticine/100/000000/canva.png"></code>
 
 <br/>
