@@ -16,7 +16,7 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/image.gif">
 </a>
 
-<h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;About me ....</h3>
+<h3>&nbsp;About me ....</h3>
 
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 a student of **Computer Science & Engineering**
 - 🔭 I am passionate about Android Dev, Web Dev, AI&ML I enjoy learning new things.
@@ -66,7 +66,7 @@
 
 <hr>
 <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+ &nbsp;<i><b>Git Activeness</b></i></p>
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swayansuabhisek&count_private=true&theme=radical" alt="swayansuabhisek" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=swayansuabhisek&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
