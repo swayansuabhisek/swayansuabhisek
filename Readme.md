@@ -18,9 +18,8 @@
 
 <h3>&nbsp;About me ....</h3>
 
-- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 a student of **Computer Science & Engineering**
-- 🔭 I am passionate about Android Dev, Web Dev, AI&ML I enjoy learning new things.
-- 🤔 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚏𝚘𝚛 **𝙸𝚗𝚝𝚎𝚛𝚗𝚜𝚑𝚒𝚙𝚜**
+- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 working as a developer at **First American(India)**
+- 🔭 I am passionate about Cloud, Web Dev, AI&ML I enjoy learning new things.
 - 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
 
 
@@ -31,9 +30,9 @@
   <img align="left" width="35px" src="https://img.icons8.com/color/48/000000/gmail-new.png" />
 </a>
 
-<a href="https://twitter.com/swayansuabhisek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="swayansuabhisek" height="30" width="40" /></a>
+<a href="https://twitter.com/be_abhisek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="swayansuabhisek" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/swayansuabhisek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swayansuabhisek" height="30" width="40" /></a>
-<a href="https://instagram.com/n.o_lag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="n.o_lag" height="30" width="40" /></a>
+<a href="https://instagram.com/s_abhisek_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="n.o_lag" height="30" width="40" /></a>
 
 </p>
 
