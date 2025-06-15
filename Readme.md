@@ -47,20 +47,23 @@
 <br/>
 <code><img height="40" width="40" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
+<code><img height="40" width="40" src="https://img.icons8.com/nolan/64/c-sharp-logo.png"></code>
 <code><img height="40" width="40" src="https://img.icons8.com/color/48/000000/html-5--v1.png"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
 <code><img height="40" width="40" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"></code>
+<code><img height="40" width="40" src="https://img.icons8.com/color/48/microsoft-sql-server.png"></code>
+<code><img height="40" width="40" src="https://img.icons8.com/ios-filled/50/postgreesql.png"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
 <code><img height="40" width="40" src="https://img.icons8.com/3d-fluency/94/github-logo.png"></code>
 <code><img height="40" width="40" src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"></code>
 <code><img height="40" width="40" src="https://img.icons8.com/officel/80/000000/java-eclipse.png"></code>
 <code><img height="40" width="40" src="https://img.icons8.com/color/48/000000/intellij-idea.png"></code>
-<code><img height="40" width="40" src="https://img.icons8.com/plasticine/100/000000/canva.png"></code>
 <code><img height="40" width="40" src="https://img.icons8.com/fluency/48/visual-studio.png"></code>
 <code><img height="40" width="40" src="https://img.icons8.com/color/48/jenkins.png"></code>
 <code><img height="40" width="40" src="https://img.icons8.com/color/48/jira.png"></code>
+<code><img height="40" width="40" src="https://img.icons8.com/fluency/48/confluence.png" alt="confluence"></code>
 <code><img height="40" width="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-bitbucket-is-a-web-based-version-control-repository-hosting-service-logo-color-tal-revivo.png" alt="external-bitbucket-is-a-web-based-version-control-repository-hosting-service-logo-color-tal-revivo"></code>
+<code><img height="40" width="40" src="https://img.icons8.com/nolan/64/amazon-web-services.png" alt="amazon-web-services"></code>
 
 <br/>
 
