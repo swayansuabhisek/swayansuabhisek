@@ -57,6 +57,8 @@
 <code><img height="40" width="40" src="https://img.icons8.com/officel/80/000000/java-eclipse.png"></code>
 <code><img height="40" width="40" src="https://img.icons8.com/color/48/000000/intellij-idea.png"></code>
 <code><img height="40" width="40" src="https://img.icons8.com/plasticine/100/000000/canva.png"></code>
+<code><img height="40" width="40" src="https://img.icons8.com/fluency/48/visual-studio.png">"></code>
+<code><img height="40" width="40" src="https://img.icons8.com/color/48/jenkins.png"></code>
 
 <br/>
 
